@@ -1,0 +1,8 @@
+port: 3333
+
+db:
+    host: "localhost"
+    username: "postgres"
+    dbname: "reporter"
+    sslmode: "disable"
+    port: "5432"

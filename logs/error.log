@@ -1,0 +1,25 @@
+2024/05/06 23:52:59.399207 Failed to connect to postgreSQL database
+2024/05/06 23:54:52.794457 Failed to connect to postgreSQL database
+2024/05/13 09:01:27.484852 Failed to connect to postgreSQL database
+2024/05/13 09:03:10.501386 Failed to connect to postgreSQL database
+2024/05/13 16:10:02.503407 token is malformed: could not base64 decode signature: illegal base64 data at input byte 43
+2024/05/13 16:11:18.551324 Error occurred while running http server. Error is: http: Server closed
+2024/05/13 16:16:53.664333 ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key" (SQLSTATE 23505)
+2024/05/13 16:25:45.229680 Error occurred while running http server. Error is: http: Server closed
+2024/05/13 16:34:16.644021 token is malformed: could not base64 decode signature: illegal base64 data at input byte 43
+2024/05/13 16:34:27.859001 token is malformed: could not base64 decode signature: illegal base64 data at input byte 43
+2024/05/13 16:34:35.818802 ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key" (SQLSTATE 23505)
+2024/05/13 16:35:14.870409 token is malformed: could not base64 decode signature: illegal base64 data at input byte 43
+2024/05/13 16:38:29.360879 ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key" (SQLSTATE 23505)
+2024/05/13 16:40:17.925814 ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key" (SQLSTATE 23505)
+2024/05/13 16:49:30.593813 Error occurred while running http server. Error is: http: Server closed
+2024/05/13 16:55:23.166073 ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key" (SQLSTATE 23505)
+2024/05/13 16:56:35.869400 token is malformed: could not base64 decode signature: illegal base64 data at input byte 43
+2024/05/13 17:02:46.459473 ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key" (SQLSTATE 23505)
+2024/05/13 17:06:20.737518 ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key" (SQLSTATE 23505)
+2024/05/13 17:15:06.353124 Error occurred while running http server. Error is: http: Server closed
+2024/05/13 17:21:52.916352 token is malformed: could not base64 decode signature: illegal base64 data at input byte 43
+2024/05/13 17:21:58.640987 token is malformed: could not base64 decode signature: illegal base64 data at input byte 43
+2024/05/13 17:22:02.768065 token is malformed: could not base64 decode signature: illegal base64 data at input byte 43
+2024/05/13 17:22:14.009697 token is malformed: could not base64 decode signature: illegal base64 data at input byte 43
+2024/05/13 17:32:28.511195 Error occurred while running http server. Error is: http: Server closed
