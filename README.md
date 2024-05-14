@@ -51,7 +51,7 @@ To install and run the project locally, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/icoder-new/finance-report.git
+   git clone https://github.com/i/f1rdavsi/humoProject
    ```
 
 2. Install the required dependencies:
